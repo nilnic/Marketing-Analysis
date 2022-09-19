@@ -7,3 +7,6 @@ targeting. This data has never been uniform. We want to understand what titles a
 commonly associated with each tier in the decision making process and what business function
 they exist in. Given your past experience analyzing marketing data please see the attached
 spreadsheet of dummy CRM data and create a report with insights and explain your approach.
+
+Report:
+Nicky Pham - Senior Marketing Analysis ROKT.pdf

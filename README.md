@@ -8,5 +8,3 @@ commonly associated with each tier in the decision making process and what busin
 they exist in. Given your past experience analyzing marketing data please see the attached
 spreadsheet of dummy CRM data and create a report with insights and explain your approach.
 
-Report:
-Nicky Pham - Senior Marketing Analysis ROKT.pdf
